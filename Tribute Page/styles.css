@@ -1,0 +1,22 @@
+img{
+    margin:auto;
+    max-width:100%;
+    display:block;
+  }
+  
+  fieldset{
+    background-color:#FDFCCE;
+  }
+  body{
+    background-color:#F5F5EF;
+  }
+  label{
+    text-align:center;
+  }
+  p{
+    text-align:center;
+  }
+  
+  h1{
+    text-align:center;
+  }
